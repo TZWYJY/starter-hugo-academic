@@ -10,7 +10,7 @@ social:
     link: zhuyuan_99@163.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?hl=zh-CN&user=OFesQBIAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/TZWYJY
