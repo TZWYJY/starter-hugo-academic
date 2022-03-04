@@ -8,7 +8,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: zhuyuan_99@163.com
+    link: //contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?hl=zh-CN&user=OFesQBIAAAAJ
