@@ -1,7 +1,7 @@
 ---
 title: Zhu Yuan
 role: Student for nanophotonics
-avatar_filename: 新生杯辩论赛半决赛留念头像.jpg
+avatar_filename: ""
 bio: My research interests include nanophotonics, relevant applications and theory.
 interests:
   - Nanophotonics
